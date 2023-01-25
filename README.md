@@ -13,3 +13,6 @@ The Machine Learning Algorithms that was used for the Loan Eligibility Dataset a
 - `SVM`
 
 Overall, the Logistic Regression and SVM Model, performs almost the same as the Neural Network Model, where the Logistic Regression Model achieve an Accuracy of 81%, the SVM Model 82%, and the Neural Network 82%.
+
+## Resources
+Code explained at: https://mendezluisjose.hashnode.dev/loan-eligibility-model
